@@ -15,3 +15,4 @@
 
 Utilities, on the other hand, provide a set of common functions or operations that can be used across different parts of an application. The advantages of using utilities include:
 
+For example your Interface AccountStatement service API Impliments 2 object ( AccountStatement with ClientCredential and AccountStatement with  AuthorizationCodeFlow ). You can use Factory Class to return AccountStatement Interface According to the input (Client Credential or AuthorizationCodeFlow) 
